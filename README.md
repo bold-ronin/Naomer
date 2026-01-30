@@ -27,7 +27,7 @@
 - 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**  
 - 💌 Reach me: **naolm662@gmail.com** or **nahtheol@proton.me**
 - 🧑🏻‍💻 Hire me: **[Up Work](https://www.upwork.com/freelancers/~01d4d43cb44b3ce6d9?companyReference=1784730888629755905&mp_source=share)**  
-- ⚡ Fun fact: *I love mixing space-tech with mobile apps 🚀 and You won’t find me in Roblox 😁*  
+- ⚡ Fun fact: *I love mixing space-tech with mobile apps 🚀 and You won’t find me in Fortnite 😁*  
 
 ---
 
