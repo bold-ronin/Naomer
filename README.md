@@ -59,6 +59,8 @@
 ---
 [![](https://github.com/bold-ronin/bold-ronin/blob/master/chat.svg)](https://twitter.com/nahtheol)
 
+[![](https://raw.githubusercontent.com/bold-ronin/bold-ronin/master/chat.svg)](https://twitter.com/nahtheol)
+
 ![](https://activity-graph.herokuapp.com/graph?username=deep-diver&theme=react-dark&hide_border=true&area=true)
 
 ![](https://github.com/bold-ronin/bold-ronin/blob/output/github-contribution-grid-snake.svg)
