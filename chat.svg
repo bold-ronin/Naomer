@@ -1,0 +1,40 @@
+<svg width="600" height="380" viewBox="0 0 600 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+.bubble { fill: #3b3b3d; }
+text {
+  fill: #dcdcdc;
+  font-size: 18px;
+  font-family: Inter, system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+.typing { opacity: 0; animation: fade 2s infinite; }
+
+.msg-1 { animation: show1 0.5s forwards; }
+.msg-2 { opacity: 0; animation: show2 0.5s 1.5s forwards; }
+.msg-3 { opacity: 0; animation: show3 0.5s 3s forwards; }
+.msg-4 { opacity: 0; animation: show4 0.5s 4.5s forwards; }
+
+@keyframes fade {
+  0%,100% {opacity:0;}
+  50% {opacity:1;}
+}
+
+@keyframes show1 { to { opacity:1; transform:translateY(0);} }
+@keyframes show2 { to { opacity:1; transform:translateY(0);} }
+@keyframes show3 { to { opacity:1; transform:translateY(0);} }
+@keyframes show4 { to { opacity:1; transform:translateY(0);} }
+</style>
+
+<rect x="10" y="10" rx="20" ry="20" width="480" height="50" class="bubble"/>
+<text x="25" y="40" class="msg-1">Hi, I'm Nahhy ⚔️</text>
+
+<rect x="10" y="70" rx="20" ry="20" width="520" height="50" class="bubble"/>
+<text x="25" y="100" class="msg-2">Software Engineer building AI-native systems</text>
+
+<rect x="10" y="130" rx="20" ry="20" width="540" height="50" class="bubble"/>
+<text x="25" y="160" class="msg-3">Flutter • LLMs • Backend • Scalable Architectures</text>
+
+<rect x="10" y="190" rx="20" ry="20" width="500" height="50" class="bubble"/>
+<text x="25" y="220" class="msg-4">Building toward global impact 🚀</text>
+
+</svg>
