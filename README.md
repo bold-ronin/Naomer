@@ -78,3 +78,25 @@
 ### 🐍 Contribution Snake
 
 ![](https://github.com/bold-ronin/bold-ronin/blob/output/github-contribution-grid-snake.svg)
+
+<h2>Hi, I'm Nahhy ⚔️</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Native%20Engineer-111111?style=for-the-badge" />
+</p>
+
+<div style="background:#2b2b2b;padding:14px 20px;border-radius:20px;width:fit-content;margin:8px 0;">
+Software Engineer building AI-powered mobile products
+</div>
+
+<div style="background:#2b2b2b;padding:14px 20px;border-radius:20px;width:fit-content;margin:8px 0;">
+Flutter • AI Systems • LLMs • Backend Architectures
+</div>
+
+<div style="background:#2b2b2b;padding:14px 20px;border-radius:20px;width:fit-content;margin:8px 0;">
+Building toward Silicon Valley impact 🚀
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bold-ronin&theme=react-dark&hide_border=true&area=true" />
