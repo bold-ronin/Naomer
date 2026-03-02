@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hey, I'm Naol</text>
+    <text x="15" y="27">Hi, I'm Chansung</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">AI-native Software Engineer building intelligent systems</text>
-    <text x="15" y="50">Flutter • LLM Agents • API Integrations • MVP Architect</text>
+    <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
+    <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
 
   <!-- typing 3 -->
@@ -319,34 +319,11 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS</text>    
-    <text x="15" y="50">working on Exciting Flutter projects & AI-based Software solving real-world problems</text>
+    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Google Developers Expert for ML and GCP</text>    
+    <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
-  <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Shipping MVPs. Testing reality. Iterating fast.</text>
-  </g>
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
@@ -368,8 +345,32 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">exploring AI + Cloud integrations & Neural Technologies</text>    
+    <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">HuggingFace Fellow</text>    
+  </g>  
+  
+  <!-- typing 4 -->
+  <g transform="translate(10, 192)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Twitter -->
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">community lead for official TensorFlow Korea</text>
   </g>
 
   <!-- typing 6 -->
@@ -393,7 +394,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">training AI models in underrepresented human languages</text>
+    <text x="15" y="27">writing and translation IT books in Korean</text>
   </g>
   
 
@@ -417,6 +418,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
+    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a> </text>
   </g>
 </svg>
