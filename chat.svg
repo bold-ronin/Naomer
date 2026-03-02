@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="580" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="520" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS</text>    
-    <text x="15" y="50">working on Exciting Flutter projects and AI based Software solving real world problems</text>
+    <text x="15" y="50">working on Exciting Flutter projects and AI based Softwares</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="200" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">HuggingFace Fellow</text>    
+    <text x="15" y="27">Solving real world problems</text>    
   </g>  
   
   <!-- typing 4 -->
