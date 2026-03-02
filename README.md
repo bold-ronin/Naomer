@@ -64,3 +64,4 @@
 
 ![](https://github.com/bold-ronin/bold-ronin/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/bold-ronin/bold-ronin/output/github-contribution-grid-snake.svg)
