@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hey, I'm Naol</text>
+    <text x="15" y="27">Hi, I'm Chansung</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">AI-native Software Engineer building intelligent systems</text>
-    <text x="15" y="50">Flutter • LLM Agents • API Integrations • MVP Architect</text>
+    <text x="15" y="27">Software Engineer and Researcher at ETRI</text>
+    <text x="15" y="50">building SDN for Optical Access Network</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS</text>    
-    <text x="15" y="50">working on Exciting Flutter projects & AI-based Software solving real-world problems</text>
+    <text x="15" y="27">Google Developers Expert for Machine Learning</text>    
+    <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
   <!-- typing 4 -->
@@ -345,7 +345,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Shipping MVPs. Testing reality. Iterating fast.</text>
+    <text x="15" y="27">community lead for official TensorFlow Korea</text>
   </g>
 
   <!-- typing 5 -->
@@ -369,7 +369,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">exploring AI + Cloud integrations & Neural Technologies</text>    
+    <text x="15" y="27">I run TensorFlow UserGoup in Korea</text>    
   </g>
 
   <!-- typing 6 -->
@@ -393,7 +393,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="365" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">training AI models in underrepresented human languages</text>
+    <text x="15" y="27">writing and translation IT books in Korean</text>
   </g>
   
 
@@ -417,6 +417,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
     <rect width="445" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
+    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/algo_diver</a> </text>
   </g>
 </svg>
