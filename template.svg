@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="140" height="42" rx="18.0355" />
+    <rect width="139" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Naol</text>
   </g>
 
@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">AI native Software Engineer building intelligent systems</text>
     <text x="15" y="50">Flutter, LLM Agents, API Integrations, MVP Architect</text>
   </g>
@@ -368,7 +368,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="415" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="455" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Exploring AI with Cloud integrations and Neural Technologies</text>    
   </g>
 
@@ -392,7 +392,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">training AI models in underrepresented human languages</text>
   </g>
   
