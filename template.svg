@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
+    <rect width="140" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Naol</text>
   </g>
 
@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">AI-native Software Engineer building intelligent systems</text>
-    <text x="15" y="50">Flutter • LLM Agents • API Integrations • MVP Architect</text>
+    <text x="15" y="27">AI native Software Engineer building intelligent systems</text>
+    <text x="15" y="50">Flutter, LLM Agents, API Integrations, MVP Architect</text>
   </g>
 
   <!-- typing 3 -->
@@ -319,9 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">currently shipping an Agentic Lead Intelligence SaaS</text>    
-    <text x="15" y="50">working on Exciting Flutter projects & AI-based Software solving real-world problems & writing blogs</text>
+    <text x="15" y="50">working on Exciting Flutter projects & AI-based Software</text>
   </g>
 
   <!-- typing 4 -->
@@ -368,8 +368,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Exploring AI + Cloud integrations & Neural Technologies</text>    
+    <rect width="415" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Exploring AI with Cloud integrations and Neural Technologies</text>    
   </g>
 
   <!-- typing 6 -->
@@ -392,7 +392,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="365" height="42" rx="18.0355" class="bubble" />
+    <rect width="400" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">training AI models in underrepresented human languages</text>
   </g>
   
@@ -416,7 +416,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="445" height="42" rx="18.0355" class="bubble" />
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
   </g>
 </svg>
