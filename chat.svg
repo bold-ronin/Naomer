@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">AI native Software Engineer building intelligent systems</text>
-    <text x="15" y="50">Flutter LLM Agents API Integrations MVP Architect</text>
+    <text x="15" y="27">Software Engineer building AI focused intelligent systems</text>
+    <text x="15" y="50">Flutter, LLM Agents, API Integrations, MVP Architect</text>
   </g>
 
   <!-- typing 3 -->
@@ -417,7 +417,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="390" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> reach out via <a xlink:href="https://twitter.com/deep_algo">https://twitter.com/nahtheol</a> </text>
   </g>
 </svg>
